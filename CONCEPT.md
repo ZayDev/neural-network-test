@@ -4,13 +4,13 @@ Images with: http://asciiflow.com
 
 ```
         +b0,0
-     +-->N1+--+
+     +-->N1---+
   *w0,0      *w1,0
      |        |
-I ------>N2+----->O
+I ------>N2------>O
      |        |  +b1
      |        |
-     +-->N3+--+
+     +-->N3---+
 ```
 
 
@@ -36,3 +36,5 @@ We also have:
 
 `O  = S(N1*w1,0 + N2*w1,1 + N3*w1,2) + b1`
 
+
+**Try to implement it till to this point!**
